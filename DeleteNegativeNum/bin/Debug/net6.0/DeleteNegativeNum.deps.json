@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DeleteNegativeNum/1.0.0": {
+        "runtime": {
+          "DeleteNegativeNum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DeleteNegativeNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

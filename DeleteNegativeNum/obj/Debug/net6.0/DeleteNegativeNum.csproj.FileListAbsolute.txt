@@ -1,0 +1,14 @@
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\bin\Debug\net6.0\DeleteNegativeNum.exe
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\bin\Debug\net6.0\DeleteNegativeNum.deps.json
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\bin\Debug\net6.0\DeleteNegativeNum.runtimeconfig.json
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\bin\Debug\net6.0\DeleteNegativeNum.dll
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\bin\Debug\net6.0\DeleteNegativeNum.pdb
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\obj\Debug\net6.0\DeleteNegativeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\obj\Debug\net6.0\DeleteNegativeNum.AssemblyInfoInputs.cache
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\obj\Debug\net6.0\DeleteNegativeNum.AssemblyInfo.cs
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\obj\Debug\net6.0\DeleteNegativeNum.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\obj\Debug\net6.0\DeleteNegativeNum.dll
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\obj\Debug\net6.0\refint\DeleteNegativeNum.dll
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\obj\Debug\net6.0\DeleteNegativeNum.pdb
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\obj\Debug\net6.0\DeleteNegativeNum.genruntimeconfig.cache
+C:\Users\LOQ\Desktop\Silviya\Listsc\DeleteNegativeNum\obj\Debug\net6.0\ref\DeleteNegativeNum.dll
